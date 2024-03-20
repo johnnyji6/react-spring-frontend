@@ -6,7 +6,7 @@ import './App.css';
 
 
 // Consumo de esta API cada 3 segundos
-const backend: string='http://localhost:8080/api/hora'
+const backend: string='/api/hora'
 const refresco: number=3000
 
 
